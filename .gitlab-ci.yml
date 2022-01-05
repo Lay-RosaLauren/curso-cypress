@@ -8,4 +8,8 @@ stages:
     script:
       - npm install
       - npm test
+<<<<<<< HEAD
       
+=======
+      
+>>>>>>> be80af58aaede91c5c23fcdbdd209b8262620db5
