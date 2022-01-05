@@ -12,7 +12,7 @@
     "automation",
     "e2e"
   ],
-  "author": "Lay-RosaLauren",
+  "author": "Curso Cypress - Lay-RosaLauren",
   "license": "MIT",
   "dependencies": {
     "cypress": "^9.2.0"
